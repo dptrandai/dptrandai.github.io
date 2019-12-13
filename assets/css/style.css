@@ -2,5 +2,8 @@
     width: 100px;
     height: 50px;
     background: #4aaaa5;
-
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin: 0px;
+    padding: 0px;
 }
