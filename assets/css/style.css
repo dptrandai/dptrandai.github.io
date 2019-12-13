@@ -1,9 +1,6 @@
-header{
-    background: white;
-}
+.box{
+    width: 100px;
+    height: 50px;
+    background: #4aaaa5;
 
-h1{
-    margin: 25px;
-    padding: 25px;
-    background: 4aaaa5;
 }
