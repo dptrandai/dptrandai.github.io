@@ -82,3 +82,7 @@ footer{
 .buttons{
     margin-left: 350px;
 }
+
+.boxes{
+    column-count: 3;
+}
