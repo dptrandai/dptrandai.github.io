@@ -48,7 +48,7 @@ h2{
     color: hsl(177, 39%, 48%);
 }
 #main-content{
-    margin: 75px;
+    margin: 150px;
     margin-top: 0px;
     padding: 30px;
     width: 960px;
@@ -80,7 +80,7 @@ footer{
 }
 
 .buttons{
-    margin-left: 350px;
+    margin-left: 285px;
 }
 
 .boxes{
